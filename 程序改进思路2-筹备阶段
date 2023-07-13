@@ -1,0 +1,10 @@
+项目筹备阶段
+Python是一种流行的编程语言，它有许多内置的模块和库，可以帮助你创建各种应用程序。其中一个模块是time，它提供了许多表示和处理时间的方法。你可以使用time模块来获取当前的时间，格式化时间，暂停代码执行，或者测量代码的性能。
+
+如果你想用python创建一个数字时钟，你可以使用Tkinter库，它是一个用于创建图形用户界面（GUI）的标准库。你可以使用Tkinter的Label组件来显示时间，并使用time模块来更新时间。你还可以使用Tkinter的其他组件来添加更多的功能，比如设置闹钟，显示日期，或者更改时区。
+
+如果你想学习更多关于python time模块和Tkinter库的知识，你可以参考以下的链接：
+
+A Beginner’s Guide to the Python time Module – Real Python：这篇教程介绍了python time模块的基本用法和示例1。
+Python time clock() Method - Online Tutorials Library：这篇文章介绍了python time模块中的clock()方法，它可以返回当前的处理器时间或者墙上时间2。
+Python | Create a digital clock using Tkinter - GeeksforGeeks：这篇文章展示了如何使用Tkinter库创建一个数字时钟的完整代码3。
